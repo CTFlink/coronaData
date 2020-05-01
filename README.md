@@ -7,5 +7,5 @@ API used: https://covid19.mathdro.id/api
 Setup:
 - run ```npm i && npm start```
 
-## Credits
+### Credits
 This project was created following the tutorial: https://github.com/adrianhajdin/project_corona_tracker.git
